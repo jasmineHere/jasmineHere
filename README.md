@@ -1,10 +1,6 @@
-<h2 align="center"> class Person { <br>
-          constructor(name, traits, age) {<br>
-            this.name = <b>"Jasmine Muman"</b>; <br>
-            this.traits = <b>["DESIGN", "DEVELOPMENT", "EXPLORING"]</b>; <br>
-          }<br>
-      } <img src="./static/Hi.gif" width="25" ></h2>
-<img align="right" alt="GIF" src="./static/girl.gif" height="300" width="400"/>
+
+<h2> console.log("Hello World! Jasmine here");<img src="./static/Hi.gif" width="25" ></h2>
+<img align="right" alt="GIF" src="./static/girl.gif" height="200" width="300"/>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
