@@ -2,13 +2,14 @@
 <img align="right" alt="GIF" src="./static/girl.gif" height="250" width="350"/>
 
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👩 About Me </h3>
 
 - 🤓 I am a developer and a designer.
 - 🔭 &nbsp; I’m currently learning iOS Application Development.
 - 🎓 &nbsp; Studying Computer Science Engineering.
 - 🌱 &nbsp; Upskilling myself in full stack web development.
 - ✍️ &nbsp; Trying out latest graphic designing trends as hobbies/side hustles. 
+<br>
 
 <h3>🛠 Tech Stack</h3>
 
@@ -22,10 +23,10 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmineHere&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham" alt="Jasmine's Github Stats">
 
-</br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineHere&layout=compact&text_color=daf7dc&bg_color=151515)
-
+<br>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
