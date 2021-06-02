@@ -19,13 +19,8 @@
 - 🔧 &nbsp; Visual Studio Code | Xcode | Eclipse | Turbo C++ | Git
 - 🖥 &nbsp; Illustrator | Photoshop <br>
 
-<br>
-<br>
-<br>
-<br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmineHere&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham" alt="Jasmine's Github Stats"> <br>
 
-<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineHere&layout=compact&text_color=daf7dc&bg_color=151515)
 <br>
