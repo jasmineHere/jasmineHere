@@ -1,4 +1,4 @@
-<h2> console.log("Hello World! I am Jasmine");  </h2>
+<h1> console.log("Hello World! I am Jasmine");  </h1>
 <img align="right" alt="GIF" src="./static/girl.gif" height="250" width="350"/>
 
 
@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | Swift | Java | C++  
-- 🌐 &nbsp; Web | iOS | HTML | CSS | React.js | Node.js | Bootstrap 
+- 🌐 &nbsp; Web | iOS |  React.js | Node.js | HTML | CSS | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
 - 🔧 &nbsp; Visual Studio Code | Xcode | Eclipse | Turbo C++ | Git
 - 🖥 &nbsp; Illustrator | Photoshop 
