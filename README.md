@@ -9,7 +9,6 @@
 - 🎓 &nbsp; Studying Computer Science Engineering.
 - 🌱 &nbsp; Upskilling myself in full stack web development.
 - ✍️ &nbsp; Trying out latest graphic designing trends as hobbies/side hustles. 
-<br>
 
 <h3>🛠 Tech Stack</h3>
 
@@ -17,9 +16,9 @@
 - 🌐 &nbsp; Web | iOS |  React.js | Node.js | HTML | CSS | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
 - 🔧 &nbsp; Visual Studio Code | Xcode | Eclipse | Turbo C++ | Git
-- 🖥 &nbsp; Illustrator | Photoshop <br>
+- 🖥 &nbsp; Illustrator | Photoshop 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmineHere&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham" alt="Jasmine's Github Stats"> <br> <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmineHere&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham" alt="Jasmine's Github Stats"> 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineHere&layout=compact&text_color=daf7dc&bg_color=151515) <br>
