@@ -1,5 +1,5 @@
 <h1> console.log("Hello World! I am Jasmine");  </h1><br>
-<img align="right" alt="GIF" src="./static/girl.gif" height="250" width="350"/> <br>
+<img align="right" alt="GIF" src="./static/girl.gif" height="250" width="350"/> 
 
 
 <h3> 👩 About Me </h3>
