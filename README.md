@@ -1,6 +1,6 @@
 
-<h2> console.log("Hello World! Jasmine here");<img src="./static/Hi.gif" width="25" ></h2>
-<img align="right" alt="GIF" src="./static/girl.gif" height="200" width="300"/>
+<h2> console.log("Hello World! Jasmine here");  <img src="./static/Hi.gif" width="25" ></h2>
+<img align="right" alt="GIF" src="./static/girl.gif" height="250" width="350"/>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
