@@ -16,7 +16,7 @@
 - 🌐 &nbsp; Web | iOS |  React.js | Node.js | HTML | CSS | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
 - 🔧 &nbsp; Visual Studio Code | Xcode | Eclipse | Turbo C++ | Git
-- 🖥 &nbsp; Illustrator | Photoshop  <br />
+- 🖥 &nbsp; Illustrator | Photoshop  <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmineHere&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham" alt="Jasmine's Github Stats"> 
 
