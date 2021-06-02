@@ -1,10 +1,10 @@
-
-<h2> console.log("Hello World! Jasmine here");  <img src="./static/Hi.gif" width="25" ></h2>
+<h2> console.log("Hello World! I am Jasmine");  </h2>
 <img align="right" alt="GIF" src="./static/girl.gif" height="250" width="350"/>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+- 🤓 I am a developer and a designer.
 - 🔭 &nbsp; I’m currently learning iOS Application Development.
 - 🎓 &nbsp; Studying Computer Science Engineering.
 - 🌱 &nbsp; Upskilling myself in full stack web development.
