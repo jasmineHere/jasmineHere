@@ -5,7 +5,6 @@
 <h3> 👩 About Me </h3>
 
 - 🤓 &nbsp; I am a developer and a designer.
-- 🔭 &nbsp; I’m currently learning iOS Application Development.
 - 🎓 &nbsp; Studying Computer Science Engineering.
 - 🌱 &nbsp; Upskilling myself in full stack web development.
 - ✍️ &nbsp; Trying out latest graphic designing trends as hobbies/side hustles. 
