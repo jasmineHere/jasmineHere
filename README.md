@@ -3,7 +3,7 @@
 </div>
 
 <br>
-<img align="right" alt="GIF" src="./static/girl.gif" height="250" width="350"/> 
+<img align="right" alt="GIF" src="./static/girl.gif" height="240" width="340"/> 
 
 
 <h3> 👩 About Me </h3>
@@ -20,7 +20,7 @@
 - 🛢 &nbsp; MySQL | Firebase | MongoDB
 - 🔧 &nbsp; Visual Studio Code | Xcode | Eclipse | Turbo C++ | Git
 - 🖥 &nbsp; Illustrator | Photoshop  
-<br>
+<br><br>
 
 <div align = center> 
 
