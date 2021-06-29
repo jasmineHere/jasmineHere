@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
 <h1> console.log("Hello World! I am Jasmine");  </h1>
-</p>
+</div>
 
 <img align="right" alt="GIF" src="./static/girl.gif" height="240" width="340"/> 
 
