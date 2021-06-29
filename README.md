@@ -2,7 +2,6 @@
 <h1> console.log("Hello World! I am Jasmine");  </h1>
 </div>
 
-<br>
 <img align="right" alt="GIF" src="./static/girl.gif" height="240" width="340"/> 
 
 
