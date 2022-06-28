@@ -9,7 +9,7 @@
 
 - 🤓 &nbsp; I am a developer and a designer.
 - 🎓 &nbsp; Studying Computer Science Engineering.
-- 🌱 &nbsp; Upskilling myself in full stack web development.
+- 🌱 &nbsp; Upskilling myself in mobile app development.
 - ✍️ &nbsp; Fun Fact: I love to draw and play computer games. 
 
 <h3>🛠 Tech Stack</h3>
