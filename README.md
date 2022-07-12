@@ -1,6 +1,10 @@
-<div align="center">
-<h1> console.log("Hello World! I am Jasmine");  </h1>
-</div>
+## Hey 👋, I'm [Jasmine Muman!](https://github.com/jasmineHere/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jasminemuman)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jasminemuman.me/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/jasminemuman/)
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jasmineHere.jasmineHere&style=flat-square&color=0088cc)
 
 <img align="right" alt="GIF" src="./static/girl.gif" height="300" width="350"/> 
 
@@ -23,10 +27,8 @@
 
 <div align = center> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmineHere&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham" alt="Jasmine's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmineHere&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham" alt="Jasmine's Github Stats"><br>
 
-
-[![HitCount](https://hits.dwyl.com/jasmineHere/jasmineHere.svg?style=flat-square)](http://hits.dwyl.com/jasmineHere/jasmineHere)
 
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineHere&layout=compact&text_color=daf7dc&bg_color=151515) 
@@ -44,7 +46,6 @@
 <br><h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/jasminemuman/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:jasminemuman21@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
