@@ -27,13 +27,19 @@
 
 
 [![HitCount](https://hits.dwyl.com/jasmineHere/jasmineHere.svg?style=flat-square)](http://hits.dwyl.com/jasmineHere/jasmineHere)
-![Repos Badge](https://badges.pufler.dev/repos/jasmineHere)
-![Years Badge](https://badges.pufler.dev/years/jasmineHere)
 
-
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineHere&layout=compact&text_color=daf7dc&bg_color=151515) 
 
 </div>
+
+<h3>😁 Some jokes for you!</h3>
+
+<div align = center>
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+</div>  
 
 <br><h3> 🤝🏻 Connect with Me </h3>
 
