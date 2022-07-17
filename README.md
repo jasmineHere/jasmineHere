@@ -4,7 +4,8 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://jasminemuman.me/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/jasminemuman/)
 
-### Glad to see you here! &nbsp; ![Visitors](https://api.visitorbadge.io/api/visitors?path=jasmineHere&label=Visitors&countColor=%23d9e3f0)
+### Glad to see you here! &nbsp; 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=jasmineHere&label=Visitors&countColor=%23d9e3f0)
 
 <img align="right" alt="GIF" src="./static/girl.gif" height="300" width="350"/> 
 
