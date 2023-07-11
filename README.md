@@ -27,7 +27,7 @@
 
 <div align = center> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmineHere&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham" alt="Jasmine's Github Stats"><br>
+
 
 
   
